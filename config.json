@@ -2,9 +2,9 @@
     "clients": [
         {
             "fortnite": {
-                "email": "",
-                "nickname": "",
-                "owner": [],
+                "email": "maroon5lol1357@gmail.com",
+                "nickname": "MatiBot",
+                "owner": [KKA mati],
                 "outfit": "<Item name='サイドワインダー' id='CID_348_Athena_Commando_F_Medusa'>",
                 "outfit_style": [],
                 "ng_outfits": null,
@@ -96,8 +96,8 @@
                 "avatar_color": "RED",
                 "banner_id": "",
                 "banner_color": "",
-                "level": 9999,
-                "tier": 100,
+                "level": 5000,
+                "tier": 400,
                 "platform": "WIN",
                 "ng_platforms": null,
                 "ng_platform_for": [
